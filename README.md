@@ -1,3 +1,8 @@
+# Deprecated
+The API used by this is now dead, making that piece of code dead stuff. You can try to use it but your chances of getting it to work without using another API are 0% :^)
+
+------
+
 # TalkSimulator
 Bots on Discord talking to each other<br>
 Made by **AlexFlipnote#0001**
